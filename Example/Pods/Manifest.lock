@@ -1,0 +1,16 @@
+PODS:
+  - NKCalendarView (0.1.0)
+
+DEPENDENCIES:
+  - NKCalendarView (from `../`)
+
+EXTERNAL SOURCES:
+  NKCalendarView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NKCalendarView: e4b1fef58c8d6ffacf8eff2e82c21219305fcc57
+
+PODFILE CHECKSUM: 99857eb9b247ca112bf90e1af893214feac3b7dc
+
+COCOAPODS: 1.7.3
